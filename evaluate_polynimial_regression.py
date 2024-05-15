@@ -9,4 +9,4 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random
 # X_train.shape (12,) y_train.shape (12,)
 # X_test.shape (6,) y_test.shape (6,)
 
-plot_train_and_test_sets(x_ideal, y_ideal, X_train, X_test, y_train, y_test)
+    
